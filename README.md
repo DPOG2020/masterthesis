@@ -1,1 +1,1 @@
-# masterthesis
+# Masterthesis - Ondrej Grof
